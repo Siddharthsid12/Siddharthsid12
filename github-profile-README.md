@@ -62,15 +62,6 @@ IaC              Terraform
 
 ---
 
-### 📊 GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharthsid12&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Siddharthsid12&theme=github-dark-blue&hide_border=true" width="48%"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 If you're working on data engineering challenges or looking for a collaborator, feel free to reach out.
