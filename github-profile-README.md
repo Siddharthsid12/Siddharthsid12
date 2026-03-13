@@ -1,4 +1,4 @@
-# Hey, I'm Siddharth 👋
+# Hey, I'm Siddharth Gupta👋
 
 **Data Engineer** with 3 years of experience building scalable data pipelines, cloud warehouses, and analytics platforms.
 
