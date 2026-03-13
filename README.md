@@ -55,7 +55,7 @@ IaC              Terraform
 
 ### 🧠 What I'm Focused On
 
-- Building production-grade **data warehouse architectures** (Data Vault + Kimball)
+- Building production-grade **data warehouse architectures** 
 - Designing **reliable pipelines** with automated quality gates and full data lineage
 - Cloud-native data platforms on **Azure** and **Databricks**
 - Writing clean, testable, well-documented data engineering code
@@ -67,4 +67,4 @@ IaC              Terraform
 If you're working on data engineering challenges or looking for a collaborator, feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/guptasiddharth10/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharth.gupta1097@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharth.gupta1097@gmail.com)
