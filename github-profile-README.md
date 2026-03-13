@@ -9,7 +9,7 @@ I design and implement end-to-end data solutions — from raw ingestion to produ
 ### 🔧 What I Work With
 
 ```
-Languages        Python · SQL · Bash
+Languages        Python · SQL 
 Processing       PySpark · Apache Spark · Databricks
 Storage          Delta Lake · Azure Data Lake Gen2 · PostgreSQL · MongoDB
 Cloud            Azure (ADLS, ADF, Synapse, Databricks) · AWS (S3, Glue, Lambda) · GCP
