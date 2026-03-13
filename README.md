@@ -28,7 +28,7 @@ IaC              Terraform
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/Siddharthsid12/azure-databricks-lakehouse">Azure Databricks Lakehouse</a></h3>
-      <p>End-to-end data lakehouse on Azure Databricks with <strong>Medallion Architecture</strong> (Bronze → Silver → Gold), <strong>Star Schema</strong> with SCD Type 2, automated data quality framework, and full CI/CD pipeline on Azure DevOps.</p>
+      <p>End-to-end data lakehouse on Azure Databricks with <strong>Medallion Architecture</strong> (Bronze → Silver → Gold), <strong>Star Schema</strong> with SCD Type 2, automated data quality framework and full CI/CD pipeline on Azure DevOps.</p>
       <p>
         <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
         <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
@@ -66,5 +66,5 @@ IaC              Terraform
 
 If you're working on data engineering challenges or looking for a collaborator, feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/guptasiddharth10/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharth.gupta1097@example.com)
