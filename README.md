@@ -1,6 +1,6 @@
 # Hey, I'm Siddharth Gupta 👋
 
-**Data Engineer** with 3 years of experience building scalable data pipelines, cloud warehouses and analytics platforms.
+**Data Engineer** with 2+ years of experience building scalable data pipelines, cloud warehouses and analytics platforms.
 
 I design and implement end-to-end data solutions — from raw ingestion to production-ready analytics — using modern tools like **PySpark**, **Databricks**, **Delta Lake** and **Azure**.
 
